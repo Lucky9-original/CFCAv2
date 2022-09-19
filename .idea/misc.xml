@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_avarias.xml" value="0.25" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_bmw.xml" value="0.3484375" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_cb500.xml" value="0.3484375" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_defender.xml" value="0.3625" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_iveco_nova.xml" value="0.3625" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_iveco_trator.xml" value="0.3484375" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_iveco_velha.xml" value="0.3484375" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_land_cruiser.xml" value="0.3625" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_man_nova.xml" value="0.3484375" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_man_trator.xml" value="0.3484375" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_man_velha.xml" value="0.3484375" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_manual_viaturas.xml" value="0.3434704830053667" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_mt07.xml" value="0.3625" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_toyota_yaris.xml" value="0.3625" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/activity_unimog.xml" value="0.3625" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/content_manual_viaturas.xml" value="0.3625" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/layout/menu_principal.xml" value="0.25" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.125" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.125" />
+        <entry key="..\:/Users/lucia/AndroidStudioProjects/CFCAv2/app/src/main/res/xml/android.xml" value="0.17074275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

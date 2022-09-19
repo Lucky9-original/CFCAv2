@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/iveco"
+    tools:context=".ManualViaturas">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:text="MANUAL DE APRESENTAÇÃO DE VIATURA"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="10dp"
+                android:text="Categoria A:"
+                android:textAlignment="textStart"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                />
+
+            <Button
+                android:id="@+id/cb500"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/material_on_surface_emphasis_medium"
+                android:text="HONDA CB500" />
+
+            <Button
+                android:id="@+id/mt07"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/material_on_surface_emphasis_medium"
+                android:text="YAMAHA MT07" />
+
+            <Button
+                android:id="@+id/bmw"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/material_on_surface_emphasis_medium"
+                android:text="BMW R 80RT" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="10dp"
+                android:text="Categoria B:"
+                android:textAlignment="textStart"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                />
+
+            <Button
+                android:id="@+id/yaris"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/material_on_surface_emphasis_medium"
+                android:text="TOYOTA YARIS" />
+
+            <Button
+                android:id="@+id/defender"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/material_on_surface_emphasis_medium"
+                android:text="LAND ROVER DEFENDER" />
+
+            <Button
+                android:id="@+id/landCruiser"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/material_on_surface_emphasis_medium"
+                android:text="TOYOTA LAND CRUISER" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="10dp"
+                android:text="Categoria C:"
+                android:textAlignment="textStart"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                />
+
+            <Button
+                android:id="@+id/ivecoAntiga"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/material_on_surface_emphasis_medium"
+                android:text="IVECO EUROCARGO 2002" />
+
+            <Button
+                android:id="@+id/ivecoNova"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/material_on_surface_emphasis_medium"
+                android:text="IVECO EUROCARGO 2019" />
+
+            <Button
+                android:id="@+id/unimog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/material_on_surface_emphasis_medium"
+                android:text="UNIMOG U-1750L" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="10dp"
+                android:text="Categoria CE:"
+                android:textAlignment="textStart"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                />
+
+            <Button
+                android:id="@+id/manTrator"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/material_on_surface_emphasis_medium"
+                android:text="MAN TRATOR" />
+            <Button
+                android:id="@+id/ivecoTrator"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/material_on_surface_emphasis_medium"
+                android:text="IVECO STRALIS" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="10dp"
+                android:text="Categoria D:"
+                android:textAlignment="textStart"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                />
+
+            <Button
+                android:id="@+id/manVelha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/material_on_surface_emphasis_medium"
+                android:text="MAN 1995" />
+            <Button
+                android:id="@+id/manNova"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:backgroundTint="@color/material_on_surface_emphasis_medium"
+                android:text="MAN 2018" />
+
+    </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

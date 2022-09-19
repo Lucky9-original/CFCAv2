@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cfcabackground"
+    tools:context="complete.ex.cfcav2.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="CIRCUITOS CONDUÇÃO CFCA"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            />
+
+
+        <Button
+            android:id="@+id/btnCto1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 1 \n (dentro da es)" />
+
+        <Button
+            android:id="@+id/btnCto2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 2" />
+
+        <Button
+            android:id="@+id/btnCto3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 3" />
+
+        <Button
+            android:id="@+id/btnCto4a"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 4A" />
+
+        <Button
+            android:id="@+id/btnCto4b"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 4B" />
+
+        <Button
+            android:id="@+id/btnCto6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 6" />
+
+        <Button
+            android:id="@+id/btnCto7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 7" />
+
+        <Button
+            android:id="@+id/btnCto8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 8" />
+
+        <Button
+            android:id="@+id/btnCto9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 9" />
+
+        <Button
+            android:id="@+id/btnCto10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 10" />
+
+        <Button
+            android:id="@+id/btnCto11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 11\n(Zona industrial)" />
+
+        <Button
+            android:id="@+id/btnCto12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 12" />
+
+        <Button
+            android:id="@+id/btnCto13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 13" />
+
+        <Button
+            android:id="@+id/btnCto14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 14" />
+
+        <Button
+            android:id="@+id/btnCto15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 15" />
+
+        <Button
+            android:id="@+id/btnCto2_8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 2/8" />
+
+        <Button
+            android:id="@+id/btnCto4_7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 4/7" />
+
+        <Button
+            android:id="@+id/btnCto4_7_8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 4/7/8" />
+
+        <Button
+            android:id="@+id/btnCto4_7_8_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 2/8/7/4" />
+
+        <Button
+            android:id="@+id/btnCto4_7_9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 4/7/9" />
+
+        <Button
+            android:id="@+id/btnCto4_7_10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 4/7/10" />
+
+        <Button
+            android:id="@+id/btnCto4a_10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 4A/10" />
+
+        <Button
+            android:id="@+id/btnCto4a_13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 4A/13" />
+
+        <Button
+            android:id="@+id/btnCto10_13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:backgroundTint="@color/material_on_surface_emphasis_medium"
+            android:text="Circuito 10/13" />
+
+    </LinearLayout>
+</ScrollView>
+
